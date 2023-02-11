@@ -214,10 +214,6 @@
     color: var(--darkgreen-color);
 }
 
-
-
-
-
 @media(max-width:1090px){
     .box img{
         margin: 5px;
@@ -236,13 +232,10 @@
 }
 
 @media(max-width:759px){
-    
     .box.center img{
         border: 10px double var(--darkgreen-color);
         padding-top: 25px;
     }
-
-    
 }
 
 @media(max-width:373px){
@@ -277,6 +270,5 @@
         align-items: center;
         flex-wrap: wrap;
         flex-direction: column;
-    }
-    
+    }  
 }
