@@ -1,6 +1,6 @@
 # layoutTrainer
 
-Template com apenas a apresentação visual e instruções sobre onde e qual tipo de conteúdo deve entrar a cada parcela da apresentação.
+Template com a apresentação visual e instruções sobre onde e qual tipo de conteúdo deve entrar a cada parcela da apresentação.
 
 
 
@@ -12,4 +12,4 @@ Esse projeto teve como motivação concretizar conhecimentos adquiridos no perí
 
 ## O Que Foi Utilizado
 
-O projeto foi criado com técnicas simples de HTML e CSS.
+O projeto foi criado com técnicas de HTML e CSS.
